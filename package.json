@@ -23,7 +23,7 @@
     "react-scripts": "5.0.1",
     "react-spinners": "^0.13.8",
     "web-vitals": "^2.1.4",
-    "web3": "^4.0.1-rc.2"
+    "web3": "^4.0.2-dev.f8a2533.0"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -247,7 +247,7 @@ function WalletView({
     }
     getBalance()
     // eslint-disable-next-line
-  }, [balance, wethBalance, clownBalance])
+  }, [balance, wethBalance, clownBalance, txs])
   useEffect(() => {
     async function fetchData() {
       try {
