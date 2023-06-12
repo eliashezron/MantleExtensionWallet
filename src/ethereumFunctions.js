@@ -4,10 +4,10 @@ import * as chains from "./constants/chains"
 import Web3 from "web3"
 import toast from "react-hot-toast"
 import { BigNumber } from "@ethersproject/bignumber"
-const ROUTER = require("./build/UniswapV2Router02.json")
-const ERC20 = require("./build/ERC20.json")
-const FACTORY = require("./build/IUniswapV2Factory.json")
-const PAIR = require("./build/IUniswapV2Pair.json")
+const ROUTER = require("./buildPack/UniswapV2Router02.json")
+const ERC20 = require("./buildPack/ERC20.json")
+const FACTORY = require("./buildPack/IUniswapV2Factory.json")
+const PAIR = require("./buildPack/IUniswapV2Pair.json")
 const web3 = new Web3("https://rpc.testnet.mantle.xyz")
 export function getProvider() {
   return new ethers.JsonRpcProvider("https://rpc.testnet.mantle.xyz")
