@@ -2,7 +2,8 @@
 
 ---
 
-https://github.com/eliashezron/MantleExtensionWallet/assets/60871378/43b23ae3-a868-4ce9-a487-d9142a4b80a7
+https://github.com/eliashezron/MantleExtensionWallet/assets/60871378/0c62baa9-4c8f-4557-b049-86144c015df6
+
 
 ---
 
